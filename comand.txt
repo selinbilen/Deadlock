@@ -1,0 +1,9 @@
+g++ main.cpp -o program
+
+
+program input1.txt
+
+program input2.txt
+
+program input3.txt
+
